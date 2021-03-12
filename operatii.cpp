@@ -1,6 +1,4 @@
 /*
-Problema 4 :
-
   A password is considered strong if below conditions are all met:  
      1. It has at least 6 characters and at most 20 characters.  
      2. It must contain at least one lowercase letter, at least one uppercase letter, and at least one digit.  
